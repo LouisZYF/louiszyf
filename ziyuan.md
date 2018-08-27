@@ -37,13 +37,19 @@ title: 资源「USEFUL LINKS」
 <img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="https://vip.member.biwcloud.com/aff.php?aff=6" style="color:#DC143C" target="_blank">梯子[Ladder]</a>- 可访问Google的东东 &nbsp;&nbsp;
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&nbsp;&nbsp;
+<a href="http://www.sysmini.com" target="_blank">极简系统</a>- 最纯净的系统下载平台       
 
 <p>
-<a href="http://www.86ditu.com" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...  
-&nbsp;&nbsp;<a href="http://www.weibodang.cn/" target="_blank">视频下载</a>- 很强大
+<a href="http://www.google.cn/maps" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...  
+&nbsp;&nbsp;<a href="http://www.weibodang.cn/" target="_blank">视频下载</a>- 很强大 
+&nbsp;&nbsp;<a href="https://msdn.itellyou.cn" target="_blank">MSDN，我告诉你</a>- 一个个人性质的原版软件信息收录站点    
 
 <p>
 <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　
+&nbsp;&nbsp;<a href="https://tool.lu" target="_blank">在线工具</a>- WEB版程序猿的工具箱。
+<p>
+<a href="https://www.portablesoft.org" target="_blank">精品绿色便携软件 </a>- 一个软件分享平台。
+
 <p>
 <a href="/daohang/"  style="color:#272727" target="_blank"> 导航</a>  
 </p>
