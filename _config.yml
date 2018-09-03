@@ -47,7 +47,13 @@ baidu:
 
 permalink: /:year/:month/:title/
 # Format
+
 highlighter: rouge
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 textColor: #FF0000
 
