@@ -8,9 +8,11 @@
         {% endif %}
         {% if page.next.url %}
         <li class="next">
-            <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">下一篇：  <span>{{page.next.title}}</span><br/><br/>
+            <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">下一篇：  <span>{{page.next.title}}</span>
             </a>
         </li>
         {% endif %}
     </ul>
 </section>
+
+

@@ -52,7 +52,6 @@ Python也要在本地下载安装好，我现在安装的是 `OpenCV 2.4.11` . 3
 >  总有一天，会有一个人，看你写过的所有状态，读完写的所有微博，看你从小到大的所有照片，甚至去别的地方寻找关于你的信息，试着听你听的歌，走你走过的地方，看你喜欢看的书，品尝你总是大呼好吃的东西……只是想弥补上，你的青春。
 
 
-<br>
 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
