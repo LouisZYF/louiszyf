@@ -301,6 +301,45 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#27272d', end
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+/* Team Section */
+#movie {
+	padding: 0px 0;
+        color: #fff;
+	background: #27272d; /* Old browsers */
+	background: -moz-linear-gradient(top, #27272d 0%, #27272d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #27272d), color-stop(100%, #27272d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #27272d 0%, #27272d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #27272d 0%, #27272d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #27272d 0%, #27272d 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #27272d 0%, #27272d 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#27272d', endColorstr='#27272d', GradientType=0 ); /* IE6-9 */
+}
+#movie H2 {
+	color: #fff;
+}
+#movie H4 {
+	color: #F4D03F;
+	transition: all 0.5s;
+}
+img.img-circle.team-img {
+	width: 120px;
+	height: 120px;
+	border: 4px solid transparent;
+	transition: all 0.5s;
+}
+#movie .thumbnail:hover>img.img-circle.team-img {
+	border: 4px solid #F4D03F;
+	font-size: medium;
+}
+#movie .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#movie .thumbnail .caption {
+	
+    margin-top: 20px;
+	margin-bottom: 30px;
+}
 /* Achivements Section */
 #achivements {
 	padding: 0px 0;
@@ -437,11 +476,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#27272d', end
 }
 #works H2 {
 	color: #fff;
-}
-
-	
-
-
+}	
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
