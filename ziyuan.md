@@ -48,8 +48,10 @@ title: 资源「USEFUL LINKS」
 <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　
 &nbsp;&nbsp;<a href="https://tool.lu" target="_blank">在线工具</a>- WEB版程序猿的工具箱。
 <p>
-<a href="https://www.portablesoft.org" target="_blank">精品绿色便携软件 </a>- 一个软件分享平台。
-
+<a href="https://www.portablesoft.org" target="_blank">精品绿色便携软件 </a>- 一个软件分享平台。&nbsp;&nbsp;
+<a href="https://www.bfdz.ink/2018/07/06/103/" target="_blank">周浩作品集 </a>- 纪录片。
+<p>
+<a href="https://archive.org/" target="_blank">互联网档案馆 </a>- 网站时光机。
 <p>
 <a href="/daohang/"  style="color:#272727" target="_blank"> 导航</a>  
 </p>
@@ -73,6 +75,7 @@ title: 资源「USEFUL LINKS」
 <p>
 <a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙
 
 <h3> Others</h3>  
  <p> 
